@@ -5,7 +5,7 @@
       "counterIndex": "1",
       "type": "num",
       "keyFields": ["user","userInList"],
-      "valueFields": "3"
+      "valueFields": "5"
     },
     {
       "counterName": "decrUser",
